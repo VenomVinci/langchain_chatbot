@@ -1,1 +1,1 @@
-# langchain_chatbot
+basic langchain chatbot with openai API.
