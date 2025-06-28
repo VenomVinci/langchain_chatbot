@@ -3,3 +3,6 @@ langchain
 langchain-openai
 langchain-core
 python-dotenv
+
+install all this libraries with:
+pip install streamlit langchain langchain-openai langchain-core python-dotenv
